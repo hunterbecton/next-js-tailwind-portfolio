@@ -18,7 +18,7 @@ You can update your about section and portfolio items from the `pages/index.js` 
 
 Change and update the images in the `public` folder. You'll also need to update your profile and logo image paths in the about section and portfolio items.
 
-Use this [Figma project](#) as a template for your images. You can use the Favicon Generator(https://favicon.io/favicon-converter/) to convert the favicon to all the appropriate files.
+Use this [Figma project](https://www.figma.com/file/EEOhLx4ydkv1wbYclJ3MhJ/Image-Templates?node-id=0%3A1) as a template for your images. You can use the Favicon Generator(https://favicon.io/favicon-converter/) to convert the favicon to all the appropriate files.
 
 ## Update the Default SEO
 
